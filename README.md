@@ -1,4 +1,4 @@
-# Face_AI
+# Face_AI test
 
 初めにstreamlitをインストールする
 > pip install streamlit
